@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EASYNOTELM</Machine>
+    <WindowsUser>Nick</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Master|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>NewUnityProject</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Nick\Documents\New Unity Project\obj\x86\Master\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>38B2C1B58D6DBBD023E31DED4ABE7D8E3C447EF5DF942DF88832CA6F92090AE6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>NewUnityProject_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>NewUnityProject_pzq3xp76mxafg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>NewUnityProject</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DefaultCompany</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nick\Documents\New Unity Project\bin\x86\Master\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-12T21:13:16.746</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\bin\x86\Master\Template.exe">
+      <PackagePath>Template.exe</PackagePath>
+      <Modified>2015-11-12T21:13:28.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Assembly-CSharp-firstpass.dll">
+      <PackagePath>Assembly-CSharp-firstpass.dll</PackagePath>
+      <Modified>2015-11-12T21:13:28.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+      <Modified>2015-11-12T21:13:27.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\UnityEngine.UI.dll">
+      <PackagePath>UnityEngine.UI.dll</PackagePath>
+      <Modified>2015-11-12T21:13:28.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\Players\Windows81\x86\Master\UnityEngineProxy.dll">
+      <PackagePath>UnityEngineProxy.dll</PackagePath>
+      <Modified>2015-02-24T16:41:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\WinRTLegacy.dll">
+      <PackagePath>WinRTLegacy.dll</PackagePath>
+      <Modified>2015-11-12T21:13:28.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\Players\Windows81\x86\Master\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2015-02-24T16:47:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\Players\Windows81\x86\Master\BridgeInterface.dll">
+      <PackagePath>BridgeInterface.dll</PackagePath>
+      <Modified>2015-02-24T16:41:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\Players\Windows81\x86\Master\UnityEngineDelegates.dll">
+      <PackagePath>UnityEngineDelegates.dll</PackagePath>
+      <Modified>2015-02-24T16:41:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\Players\Windows81\x86\Master\BridgeInterface.winmd">
+      <PackagePath>BridgeInterface.winmd</PackagePath>
+      <Modified>2015-02-24T16:41:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\Players\Windows81\x86\Master\UnityEngineDelegates.winmd">
+      <PackagePath>UnityEngineDelegates.winmd</PackagePath>
+      <Modified>2015-02-24T16:41:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\Players\Windows81\x86\Master\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2015-02-24T16:47:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\Players\Windows81\x86\Master\WinRTBridge.winmd">
+      <PackagePath>WinRTBridge.winmd</PackagePath>
+      <Modified>2015-02-24T16:41:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Assets\MediumTile.scale-100.png">
+      <PackagePath>Assets\MediumTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-23T12:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-24T17:08:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-24T17:08:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-23T12:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Assets\WideTile.scale-100.png">
+      <PackagePath>Assets\WideTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-23T12:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Data\mainData">
+      <PackagePath>Data\mainData</PackagePath>
+      <Modified>2015-11-12T21:12:45.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2015-02-24T17:12:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2015-11-12T21:12:46.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Data\managedAssemblies.txt">
+      <PackagePath>Data\managedAssemblies.txt</PackagePath>
+      <Modified>2015-11-12T21:12:55.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2015-11-12T21:12:45.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\bin\x86\Master\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-12T21:13:03.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\bin\x86\Master\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-11-12T21:13:03.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\bin\x86\Master\Template.xr.xml">
+      <PackagePath>Template.xr.xml</PackagePath>
+      <Modified>2015-11-12T21:13:03.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nick\Documents\New Unity Project\bin\x86\Master\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-12T21:13:10.224</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
